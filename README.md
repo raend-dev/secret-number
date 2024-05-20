@@ -13,5 +13,5 @@
 
 # Time
 
-| [<img src="https://avatars.githubusercontent.com/u/162905855?v=4" width=115><br><sub>André "Raend" Clímaco</sub>](https://github.com/raend-dev){: style="text-decoration: none;"}
+| [<img src="https://avatars.githubusercontent.com/u/162905855?v=4" width=115><br><sub>André "Raend" Clímaco</sub>](https://github.com/raend-dev)
 | :---: |
